@@ -2,9 +2,9 @@
 
 Each widget is individually downloadable. Only download what you need.
 
-**Base URL:** `https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main`
+**Base URL:** `https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main`
 
-> TODO: Replace `YOUR_USERNAME` with the actual GitHub username after pushing the repo.
+> TODO: Replace `Jibran-Talib` with the actual GitHub username after pushing the repo.
 
 ---
 
@@ -15,7 +15,7 @@ Gradient button with factories: primary, grey, delete, outline, edit.
 
 ```bash
 curl -o lib/shared/widgets/button_component.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/button_component.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/button_component.dart"
 ```
 
 **Requires:** `flutter_screenutil`, `flutter_animate`, `iconly`, `AppNavigator` (from core)
@@ -33,7 +33,7 @@ Full-featured text field with label, validation, password toggle, keyboard types
 
 ```bash
 curl -o lib/shared/widgets/text_field_component.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/text_field_component.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/text_field_component.dart"
 ```
 
 **Requires:** `theme_extensions.dart` (from core)
@@ -55,7 +55,7 @@ Inline success/error feedback banner.
 
 ```bash
 curl -o lib/shared/widgets/response_widget.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/response_widget.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/response_widget.dart"
 ```
 
 **Usage:**
@@ -71,7 +71,7 @@ Gradient shimmer loading spinner.
 
 ```bash
 curl -o lib/shared/widgets/app_loader.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/app_loader.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/app_loader.dart"
 ```
 
 **Requires:** `material_loading_indicator`, `AppNavigator` (from core)
@@ -83,7 +83,7 @@ Full-screen black overlay with centered AppLoader.
 
 ```bash
 curl -o lib/shared/widgets/loader_overlay.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/loader_overlay.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/loader_overlay.dart"
 ```
 
 **Usage:**
@@ -101,7 +101,7 @@ Overlay-based top-sliding snackbar with auto-dismiss.
 
 ```bash
 curl -o lib/shared/widgets/custom_snackbar.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/custom_snackbar.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/custom_snackbar.dart"
 ```
 
 **Usage:**
@@ -118,10 +118,10 @@ Static dialog utility — delete, warning, success, logout, subscription, report
 ```bash
 # Download both files
 curl -o lib/shared/widgets/dialogs_widget/app_dialog.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/dialogs_widget/app_dialog.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/dialogs_widget/app_dialog.dart"
 
 curl -o lib/shared/widgets/dialogs_widget/dialog_types.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/dialogs_widget/dialog_types.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/dialogs_widget/dialog_types.dart"
 ```
 
 **Requires:** `AppNavigator`, `AppRouter.navigatorKey` (from core), `flutter_screenutil`, `flutter_animate`, `iconly`
@@ -140,7 +140,7 @@ CachedNetworkImage wrapper with loading placeholder.
 
 ```bash
 curl -o lib/shared/widgets/cache_image_component.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/cache_image_component.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/cache_image_component.dart"
 ```
 
 **Requires:** `cached_network_image`
@@ -152,7 +152,7 @@ Text widget with gradient text support and character limit.
 
 ```bash
 curl -o lib/shared/widgets/text_component.dart \
-  "https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main/lib/shared/widgets/text_component.dart"
+  "https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main/lib/shared/widgets/text_component.dart"
 ```
 
 **Usage:**
@@ -167,7 +167,7 @@ TextComponent(text: 'Premium', color: AppNavigator.gradients.primaryGradient)
 ## Download All Widgets
 
 ```bash
-BASE="https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main"
+BASE="https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main"
 
 curl -o lib/shared/widgets/button_component.dart "$BASE/lib/shared/widgets/button_component.dart"
 curl -o lib/shared/widgets/text_field_component.dart "$BASE/lib/shared/widgets/text_field_component.dart"

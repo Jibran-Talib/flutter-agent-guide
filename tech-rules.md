@@ -7,8 +7,8 @@
 ## Repository Links
 
 ### flutter-kit-core
-**GitHub:** `https://github.com/YOUR_USERNAME/flutter-kit-core`
-**Raw base:** `https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-core/main`
+**GitHub:** `https://github.com/Jibran-Talib/flutter-kit-core`
+**Raw base:** `https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-core/main`
 **Purpose:** Core infrastructure — API, DI, theme, session, storage, routing, errors, validators
 
 | File | Path |
@@ -40,8 +40,8 @@
 ---
 
 ### flutter-kit-widgets
-**GitHub:** `https://github.com/YOUR_USERNAME/flutter-kit-widgets`
-**Raw base:** `https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-widgets/main`
+**GitHub:** `https://github.com/Jibran-Talib/flutter-kit-widgets`
+**Raw base:** `https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-widgets/main`
 **Purpose:** Reusable UI widgets — individually downloadable
 **Full catalog:** `catalogs/widgets.md`
 
@@ -61,8 +61,8 @@
 ---
 
 ### flutter-kit-features
-**GitHub:** `https://github.com/YOUR_USERNAME/flutter-kit-features`
-**Raw base:** `https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-features/main`
+**GitHub:** `https://github.com/Jibran-Talib/flutter-kit-features`
+**Raw base:** `https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-features/main`
 **Purpose:** Complete feature packages — download and connect
 **Full catalog:** `catalogs/features.md`
 
@@ -77,7 +77,7 @@
 ---
 
 ### flutter-agent-guide (this repo)
-**GitHub:** `https://github.com/YOUR_USERNAME/flutter-agent-guide`
+**GitHub:** `https://github.com/Jibran-Talib/flutter-agent-guide`
 **Purpose:** Agent rules, skills, and catalogs
 
 | File | Purpose |
@@ -143,4 +143,4 @@
 | ChatBot feature | `flutter-kit-features/chatbot/HOW_TO_USE.md` |
 | Remote Config feature | `flutter-kit-features/remote_config/HOW_TO_USE.md` |
 
-> TODO: Replace `YOUR_USERNAME` with actual GitHub username after pushing all repos.
+> TODO: Replace `Jibran-Talib` with actual GitHub username after pushing all repos.

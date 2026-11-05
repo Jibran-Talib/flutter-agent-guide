@@ -2,9 +2,9 @@
 
 Complete, downloadable features with Clean Architecture (domain + data + presentation).
 
-**Base URL:** `https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-features/main`
+**Base URL:** `https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-features/main`
 
-> TODO: Replace `YOUR_USERNAME` with the actual GitHub username after pushing the repo.
+> TODO: Replace `Jibran-Talib` with the actual GitHub username after pushing the repo.
 
 ---
 
@@ -16,7 +16,7 @@ Complete authentication: login, signup, OTP, forgot/reset password, social login
 **Requires:** flutter-kit-core (api_service, errors, session, storage, usecase, di)
 
 ```bash
-BASE="https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-features/main/auth/lib"
+BASE="https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-features/main/auth/lib"
 
 # Domain
 curl -o lib/features/auth/domain/entities/auth_entity.dart "$BASE/domain/entities/auth_entity.dart"
@@ -53,7 +53,7 @@ Complete IAP with backend verification: load plans, buy, restore, verify, comple
 **Requires:** flutter-kit-core + `in_app_purchase` package
 
 ```bash
-BASE="https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-features/main/iap/lib"
+BASE="https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-features/main/iap/lib"
 
 # Constants & endpoints
 curl -o lib/features/iap/constants.dart "$BASE/constants.dart"
@@ -101,7 +101,7 @@ Login, signup, OTP, social login, logout + profile get/update, block/report/dele
 **Requires:** flutter-kit-core + auth feature
 
 ```bash
-BASE="https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-features/main/auth_user/lib"
+BASE="https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-features/main/auth_user/lib"
 
 # Entities
 curl -o lib/features/auth_user/domain/entities/user_entity.dart "$BASE/domain/entities/user_entity.dart"
@@ -143,7 +143,7 @@ Generic AI chatbot with multi-turn sessions and local message caching.
 **Requires:** flutter-kit-core (api_service, storage_service)
 
 ```bash
-BASE="https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-features/main/chatbot/lib"
+BASE="https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-features/main/chatbot/lib"
 
 curl -o lib/features/chatbot/domain/entities/chat_message_entity.dart "$BASE/domain/entities/chat_message_entity.dart"
 curl -o lib/features/chatbot/domain/entities/chat_sender_type.dart "$BASE/domain/entities/chat_sender_type.dart"
@@ -175,7 +175,7 @@ Generic Firebase Remote Config wrapper with typed key access.
 **Requires:** firebase_remote_config, firebase_core
 
 ```bash
-BASE="https://raw.githubusercontent.com/YOUR_USERNAME/flutter-kit-features/main/remote_config/lib"
+BASE="https://raw.githubusercontent.com/Jibran-Talib/flutter-kit-features/main/remote_config/lib"
 
 curl -o lib/features/remote_config/domain/entities/remote_config_entity.dart "$BASE/domain/entities/remote_config_entity.dart"
 curl -o lib/features/remote_config/domain/repositories/remote_config_repository.dart "$BASE/domain/repositories/remote_config_repository.dart"
